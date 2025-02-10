@@ -1,3 +1,3 @@
 # devsutest
 
-La solución al reto técnico se encuentr dentro de la carpeta /src/py
+La solución al reto técnico se encuentra dentro de la carpeta /src/py
